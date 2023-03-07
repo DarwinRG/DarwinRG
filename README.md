@@ -1,4 +1,4 @@
-<h1 align="center">### :man_technologist: &nbsp;About Me :</h1>
+<h1 align="center">:man_technologist: &nbsp;About Me :</h1>
 <h1 align="center">Hi 👋, I'm Darwin R. Guillermo</h1>
 <h3 align="center">I am a Programming Student <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Philippines.</h3>
 
