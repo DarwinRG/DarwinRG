@@ -1,6 +1,6 @@
 <h1 align="center">:man_technologist: &nbsp;About Me :</h1>
 <h1 align="center">Hi 👋, I'm Darwin R. Guillermo</h1>
-<h3 align="center">I am a Programming Student <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Philippines :philippines:&nbsp;.</h3>
+<h3 align="center">I am a Programming Student <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Philippines.</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=darwinrg" alt="darwinrg" /></a> </p>
 
@@ -19,8 +19,10 @@
 <a href="https://twitter.com/TheDarwinRG" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="TheDarwinRG" height="30" width="40" /></a>
 <a href="https://www.facebook.com/YourCosmicGuy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ダーウィン (Hikoboshi)" height="30" width="40" /></a>
 <a href="https://instagram.com/your.cosmic_guy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="your.cosmic_guy" height="30" width="40" /></a>
-<a href="https://discord.gg/Hikoboshi#6278" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Hikoboshi#6278" height="30" width="40" /></a>
+<a href="https://discord.gg/Hikoboshi#6278" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Hikoboshi" height="30" width="40" /></a>
 <a href="https://t.me/Jrizal00" target="blank"><img align="center" src="https://cdx.solo.to/images/link/telegram.svg" alt="Jrizal00" height="30" width="40" /></a>
+<a href="https://phcorner.net/members/phc-baseplate.1032345/" target="blank"><img align="center" src="https://i.imgur.com/7krMnbg.jpg" alt="PHC - BASEPLATE" height="30" width="40" /></a>
+<a href="https://open.spotify.com/user/31nnhc7igqwyx3rm5ffysnu5lba4" target="blank"><img align="center" src="https://cdx.solo.to/images/link/spotify.svg" alt="BSPLT" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
