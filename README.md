@@ -12,9 +12,9 @@
 
 - ⚡ In my free time I solve problems on **PHCorner.net and read tech articles.**
 
-- 👨‍💻 I work as a **Computer Technician.** 
+- 👨‍💻 I also work as a **Computer Technician.** 
 
-- 📝 I like building and fixing **Electronic devices and Computers.**
+- 📝 I love building and fixing **Electronic devices and Computers.**
 
 - 📫 How to reach me **darwinrguillermo11@gmail.com**
 
