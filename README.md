@@ -1,6 +1,6 @@
 <h1 align="center">:man_technologist: &nbsp;About Me :</h1>
 <h1 align="center">Hi 👋, I'm Darwin R. Guillermo</h1>
-<h3 align="center">I am a Programming Student <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Philippines.</h3>
+<h3 align="center">I am a Programming Student <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Philippines 🇵🇭.</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=darwinrg" alt="darwinrg" /></a> </p>
 
