@@ -27,15 +27,15 @@
 <div align="center">
 &nbsp;
 
-## MY TOP LANGUAGES
+## 💻MY LANGUAGES
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=darwinrg&layout=donut)](https://github.com/DarwinRG)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=darwinrg&layout=donut-vertical&theme=radical)](https://github.com/DarwinRG)
 
-## MY STATS
+## 📊MY STATS
 
 [![darwinrg GitHub stats](https://github-readme-stats.vercel.app/api?username=darwinrg&show_icons=true&theme=radical)](https://github.com/DarwinRG)
 
-## GITHUB STREAK
+## 🔥GITHUB STREAK
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=darwinrg&theme=dark)](https://github.com/DarwinRG)
+[![GitHub Streak](https://streak-stats.demolab.com?user=darwinrg&theme=radical)](https://github.com/DarwinRG)
 </div>
