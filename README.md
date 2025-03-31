@@ -1,18 +1,17 @@
-<h1 align="center">About Me</h1>
-<h1 align="center">👋 Hello  there stranger! I'm Darwin Guillermo</h1>
-<h3 align="center">I am an Information Technology Student <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Philippines.</h3>
+<h1 align="center">Darwin Guillermo</h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=darwinrg&label=Profile%20views&color=0e75b6&style=flat" alt="darwinrg" /> </p>
+
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=darwinrg&label=Profile%20views&color=0e75b6&style=flat" alt="darwinrg" /> </p>
 
 - 🔭 I’m currently working on **improving my programming skills.**
 
-- 🌱 I’m currently learning **Scripting Languages.**
+- 🌱 I’m currently learning **Laravel**.
 
-- ⚡ In my free time I solve problems on **PHCorner.net and read tech articles.**
+- ⚡ In my free time I solve problems on **PHCorner.net and read tech articles**.
 
-- 👨‍💻 I also work as a **Computer Technician.**
+- 👨‍💻 I also work as a **Computer Technician**.
 
-- 📝 I love building and fixing **Electronic devices and Computers.**
+- 📝 I love building and fixing **Electronic devices and Computers**.
 
 - 📫 How to reach me **darwinrguillermo11@gmail.com**
 
@@ -38,4 +37,5 @@
 ## 🔥GITHUB STREAK
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=darwinrg&theme=radical)](https://github.com/DarwinRG)
+
 </div>
